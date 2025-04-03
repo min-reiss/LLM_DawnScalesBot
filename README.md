@@ -16,4 +16,4 @@
 
 ![Скриншот с LM Studio](https://github.com/min-reiss/LLM_DawnScalesBot/blob/main/pictures/DawnScales_serv.jpg)
 
-Видео демонстрации весило очень много, поэтому демонстрацию работы, можно посмотреть [перейдя по ссылке] (https://drive.google.com/drive/u/0/folders/1J7nf87L2uPsjAi40QB5G5rUfEZwkWcHg)
+Видео демонстрации весило очень много, поэтому демонстрацию работы, можно посмотреть [перейдя по ссылке](https://drive.google.com/drive/u/0/folders/1J7nf87L2uPsjAi40QB5G5rUfEZwkWcHg)
