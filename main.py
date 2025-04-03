@@ -101,7 +101,7 @@ def handle_message(message):
     if user_id not in user_message_history:
         user_message_history[user_id] = [
             {"role": "assistant", "content": BOT_LOR},  # Лор бота
-            {"role": "system", "content": "Ты всегда отвечаешь как кот-табакси Шашлык"}
+            {"role": "system", "content": "Ты всегда отвечаешь как кот-табакси"}
         ]
 
     # Получаем историю сообщений текущего пользователя
